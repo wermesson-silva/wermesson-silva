@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Wermesson 👀👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Wermesson+%F0%9F%91%80%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eu_wermesson)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wermesson-cleinaldo-barbosa-da-silva-2497932b8/)
