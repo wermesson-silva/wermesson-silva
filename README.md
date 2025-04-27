@@ -25,7 +25,3 @@
 
 Gosto de programação e de adquirir conhecimento em tecnologias novas.
 <br/>
-
-### O que faço?
-
-- Atualmente cursando técnico em informática no IFRN
