@@ -147,17 +147,11 @@ Neste perfil, compartilho projetos pessoais e acadêmicos, exploro tecnologias e
 ## `05` · Contribution Snake
 
 <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wermesson-silva/wermesson-silva/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wermesson-silva/wermesson-silva/output/github-contribution-grid-snake.svg"/>
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/wermesson-silva/wermesson-silva/output/github-contribution-grid-snake-dark.svg"
-      alt="Animação Snake das contribuições do GitHub"
-    />
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/wermesson-silva/wermesson-silva/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Dark"
+    width="100%"
+  />
 </div>
 
 ---
