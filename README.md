@@ -68,11 +68,6 @@ Neste perfil, compartilho projetos pessoais e acadêmicos, exploro tecnologias e
     <img src="https://skillicons.dev/icons?i=spring" width="45" alt="Spring" title="Spring / Spring Boot"/>
   </a>
 
-  <br/>
-
-  <img src="https://img.shields.io/badge/JSF-111111?style=flat-square&logo=jakartaee&logoColor=ef4444" alt="JSF"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-111111?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
-
   <h3>Frontend</h3>
 
   <a href="https://angular.dev/">
