@@ -93,6 +93,7 @@ Neste perfil, compartilho projetos pessoais e acadêmicos, exploro tecnologias e
 
 ---
 
+
 ## `03` · Projetos em destaque
 
 <div align="center">
@@ -100,14 +101,14 @@ Neste perfil, compartilho projetos pessoais e acadêmicos, exploro tecnologias e
   <a href="https://github.com/wermesson-silva/gestao-tarefas">
     <img
       width="47%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=wermesson-silva&repo=gestao-tarefas&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=wermesson-silva&repo=gestao-tarefas&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5"
       alt="Card do repositório Gestão de Tarefas"
     />
   </a>
-  <a href="https://github.com/wermesson-silva/RedeAcademias">
+  <a href="https://github-stats-extended.vercel.app/api/pin/?username=wermesson-silva&repo=RedeAcademias&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5">
     <img
       width="41%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=wermesson-silva&repo=RedeAcademias&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=wermesson-silva&repo=RedeAcademias&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5"
       alt="Card do repositório RedeAcademias"
     />
   </a>
@@ -120,18 +121,19 @@ Neste perfil, compartilho projetos pessoais e acadêmicos, exploro tecnologias e
 
 ---
 
+
 ## `04` · Estatísticas do GitHub
 
 <div align="center">
 
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=wermesson-silva&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5&ring_color=ef4444&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=wermesson-silva&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5&ring_color=ef4444&include_all_commits=true"
     alt="Estatísticas do GitHub"
   />
   <img
     width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wermesson-silva&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=e5e5e5&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wermesson-silva&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=e5e5e5&langs_count=8"
     alt="Linguagens mais utilizadas nos repositórios públicos"
   />
 
